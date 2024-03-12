@@ -1,6 +1,6 @@
 # Road Accidents in India
 
-This project explores road accident data in India from the years 2017 to 2019. Through exploratory data analysis (EDA) using R, various aspects of road accidents are investigated to gain insights into trends, patterns, and factors contributing to accidents.
+This project explores road accident data in India from the years 2017 to 2019. Through exploratory data analysis using R, various aspects of road accidents are investigated to gain insights into trends, patterns, and factors contributing to accidents.
 
 ## Introduction
 Road accidents pose a significant challenge to public safety and infrastructure in India. Understanding the characteristics and underlying causes of accidents is crucial for policymakers, law enforcement agencies, and road safety advocates. This project aims to analyze road accident data and identify key trends and insights to inform interventions and policy decisions.
